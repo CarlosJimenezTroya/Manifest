@@ -1,7 +1,7 @@
 {
   "name": "Carlos Troya",
   "short_name": "Carlos Troya",
-  "start_url": ""/carlostroya-assets/"",
+  "start_url": "/carlostroya-assets/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0052A4",
