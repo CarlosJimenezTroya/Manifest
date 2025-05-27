@@ -18,6 +18,11 @@
       "sizes": "256x256",
       "type": "image/png"
     },
+        {
+      "src": "https://i.postimg.cc/htqwQbF2/icono-del-blog-384x384-tinified.webp",
+      "sizes": "358x358",
+      "type": "image/png"
+    },
     {
       "src": "https://i.postimg.cc/jSNx9wzx/icono-del-blog-512x512-tinified.png",
       "sizes": "512x512",
