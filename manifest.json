@@ -6,6 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#0056b3",
   "orientation": "portrait",
+  "scope": "/",
   "icons": [
     {
       "src": "https://i.postimg.cc/CLRLG65f/icono-del-blog-192x192-tinified.png",
