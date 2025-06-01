@@ -1,7 +1,7 @@
 {
   "name": "Carlos Troya - Finanzas e Inversión",
   "short_name": "Carlos Troya",
-  "start_url": "/?pwa=true",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0056b3",
