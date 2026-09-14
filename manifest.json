@@ -1,12 +1,12 @@
 {
   "name": "Carlos Troya - Finanzas e Inversión",
   "short_name": "Carlos Troya",
-  "start_url": "/",
+  "start_url": "https://www.carlostroya.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0056b3",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "https://www.carlostroya.com/",
   "icons": [
     {
       "src": "https://i.postimg.cc/CLRLG65f/icono-del-blog-192x192-tinified.png",
